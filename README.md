@@ -18,7 +18,7 @@ I red-team AI models and agents to find out how they fail, and I build tools tha
 - **[agentdojo-replication](https://github.com/olorunpojuessangd/agentdojo-replication)**: replicating the AgentDojo prompt-injection benchmark (NeurIPS 2024) on current open models and comparing the results with the paper's baselines.
 - **[agentic-quality-engineer](https://github.com/olorunpojuessangd/agentic-quality-engineer)**: a multi-agent RAG pipeline for root-cause analysis of manufacturing defects, with analyst and verifier agents evaluated against planted ground truth.
 - **[network-monitor](https://github.com/olorunpojuessangd/network-monitor)**: a Python service that tracks latency, packet loss, and DNS on a home network, with alerts and a local dashboard.
-- **CS RolePath**: a career-path navigator that helps Berea CS students explore roles, growing into an applied-AI decision-support tool.
+- **[CS RolePath](https://github.com/olorunpojuessangd/csrolepath)**: a career-path navigator that helps Berea CS students explore roles, growing into an applied-AI decision-support tool.
 
 ### Interested in
 
